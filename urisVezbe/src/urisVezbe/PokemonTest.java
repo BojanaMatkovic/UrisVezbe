@@ -11,6 +11,9 @@ public class PokemonTest {
 		System.out.println(p1);
 		
 		System.out.println(p.equals(p1));
+		
+		Pokemon david = new Pokemon("Hibrid", "mehanicki", 10,12);
+		System.out.println(david);
 
 	}
 
