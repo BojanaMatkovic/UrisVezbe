@@ -6,4 +6,5 @@
  *
  */
 module urisVezbe {
+	requires java.desktop;
 }
